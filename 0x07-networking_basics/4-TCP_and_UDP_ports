@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# -l list the listening ports and -p shows the procces id
+netstat -lp
